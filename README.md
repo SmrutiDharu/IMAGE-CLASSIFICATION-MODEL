@@ -61,6 +61,13 @@ After training, the model is evaluated on the test dataset to measure its genera
 Training Accuracy: Approximately 80–85%
 Validation/Test Accuracy: Approximately 70%
 
+##OUTPUT:
+<img width="1914" height="1021" alt="Image" src="https://github.com/user-attachments/assets/0f6676c6-4be0-4602-9e3a-f80a869bfffd" />
+
+<img width="766" height="746" alt="Image" src="https://github.com/user-attachments/assets/bb4cf6bf-9597-4507-a787-259de6b69d56" />
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/77372e0e-cc98-4e8c-a6e7-e8feccd0f53b" />
+
 
 
 
